@@ -1,6 +1,6 @@
 # merge.py
 def greet():
-    print("Hello from the sunghwan branch")
+    print("Hello from the sunghwan branch, second time")
 def add(a, b):
     return a + b
 def subtract(a, b):
