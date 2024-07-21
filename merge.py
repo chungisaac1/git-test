@@ -1,7 +1,10 @@
 # merge.py
 def greet():
     print("Hello from the sunghwan branch, second time")
-    print("Hello,from the sunghwan branch, third time")
+    print("aaaa")
+    print("bbb")
+    print("cccc")
+    print("Hello,from the random branch, third time")
 def add(a, b):
     return a + b
 def subtract(a, b):
