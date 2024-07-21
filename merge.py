@@ -1,9 +1,6 @@
 # merge.py
 def greet():
-    print("Hello from the Isaac chung branch") # 
-    print("Hgello from the isAac Chung branch") # 
-    print('dddd')
-    print('aaa')
+    print("Hello from the sunghwan branch")
 def add(a, b):
     return a + b
 def subtract(a, b):
@@ -16,11 +13,11 @@ def divide(a, b):
     return a / b
 def main():
     print("This is the main function")
-greet()
-result_add = add(10, 5)
-result_sub = subtract(10, 5)
-result_mul = multiply(10, 5)
-result_div = divide(10, 5)
-print (f"Add: {result_add}, Subtract: {result_sub}, Multipl")
+    greet()
+    result_add = add(10, 5)
+    result_sub = subtract(10, 5)
+    result_mul = multiply(10, 5)
+    result_div = divide(10, 5)
+    print(f"Add: {result_add}, Subtract: {result_sub}, Multiply: {result_mul}")
 if __name__ == "__main__":
     main()
